@@ -7,7 +7,7 @@ Esse repositório contém o código-fonte ministrado na aula Nest.js com Clean A
 
 Execute os comandos:
 
-```bash##
+```bash
 npm install
 npm run start:dev
 ```"
