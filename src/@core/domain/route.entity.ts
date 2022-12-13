@@ -2,7 +2,7 @@ import crypto from 'crypto';
 
 export type LatLng = { lat: number; lng: number };
 
-//class, type, 
+//class, 
 
 export type RouteProps = {
   title: string;
