@@ -1,6 +1,6 @@
 import { LatLng, Route } from '../domain/route.entity';
 import { RouteRepositoryInterface } from '../domain/route.repository';
-//não services do Nest.js - casos de uso vão ser o service
+//não services do Nest.js - casos de uso vão ser o service.
 //services do Nest.js usam os casos
 export class CreateRouteUseCase {
   constructor(private routeRepo: RouteRepositoryInterface) {}
