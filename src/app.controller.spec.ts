@@ -6,7 +6,7 @@ describe('AppController', () => {
   let appController: AppController;
 
   beforeEach(async () => {
-    //restart module
+    //restart module lib
     const app: TestingModule = await Test.createTestingModule({
       controllers: [AppController],
       providers: [AppService],
