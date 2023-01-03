@@ -5,7 +5,7 @@ import { RoutesModule } from './routes/routes.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { join } from 'path';
 import { RouteSchema } from './@core/infra/db/typeorm/route.schema';
-// app
+// ap
 @Module({
   imports: [
     TypeOrmModule.forRoot({
