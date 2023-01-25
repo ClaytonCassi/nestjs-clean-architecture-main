@@ -1,6 +1,6 @@
 
 
-## Sobre o repositório ###
+## Sobre o repositório ##
 Esse repositório contém o código-fonte ministrado na aula Nest.js com Clean Architecture: [https://www.youtube.com/watch?v=ZOyEFaBSEfk](https://www.youtube.com/watch?v=ZOyEFaBSEfk)
 
 ### Rodar a aplicação ###
