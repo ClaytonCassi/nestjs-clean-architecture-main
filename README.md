@@ -2,7 +2,7 @@
 
 Este é um repositório de exemplo de uma aplicação em Nest.js que segue o padrão de arquitetura Clean Architecture. O objetivo deste projeto é fornecer uma base sólida e escalável para novos projetos, utilizando as melhores práticas e ferramentas do desenvolvimento de software.
 
-<h2>O que é Clean Architecture? </br>
+<h2>O que é Clean Architecture?</h2> </br>
 
 Clean Architecture </br> é uma abordagem de desenvolvimento de software que prioriza a separação de preocupações, facilitando a manutenção e a evolução do projeto. Com o Clean Architecture, é possível ter uma aplicação mais organizada, fácil de entender e mudar, além de ter uma camada adicional de proteção contra impactos futuros na estrutura do projeto.
 
