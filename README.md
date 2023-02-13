@@ -4,7 +4,7 @@ Este é um repositório de exemplo de uma aplicação em Nest.js que segue o pad
 
 O que é Clean Architecture? </br>
 
-Clean Architecture é uma abordagem de desenvolvimento de software que prioriza a separação de preocupações, facilitando a manutenção e a evolução do projeto. Com o Clean Architecture, é possível ter uma aplicação mais organizada, fácil de entender e mudar, além de ter uma camada adicional de proteção contra impactos futuros na estrutura do projeto.
+Clean Architecture </br> é uma abordagem de desenvolvimento de software que prioriza a separação de preocupações, facilitando a manutenção e a evolução do projeto. Com o Clean Architecture, é possível ter uma aplicação mais organizada, fácil de entender e mudar, além de ter uma camada adicional de proteção contra impactos futuros na estrutura do projeto.
 
 ## Características ##
 Utilização de camadas separadas para cada tipo de preocupação, como: entidades, use cases, aplicação e infraestrutura.
