@@ -30,4 +30,4 @@ Crie uma branch com sua funcionalidade (exemplo: feature/nova-funcionalidade)
 Adicione suas mudanças e faça um commit
 Envie sua branch para o seu repositório no Github
 Crie um Pull Request para este repositório
-Agradecemos a sua contribuição!
+Agradecemos a sua contribuição!!
