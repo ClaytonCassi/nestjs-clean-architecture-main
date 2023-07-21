@@ -25,7 +25,7 @@ Inicie a aplicação com o comando npm run start
 Como contribuir
 Se você deseja contribuir para este projeto, siga os seguintes passos:
 
-Faça um fork deste repositório </br>
+Faça um fork deste repositório por demanda </br>
 Crie uma branch com sua funcionalidade (exemplo: feature/nova-funcionalidade)
 Adicione suas mudanças e faça um commit
 Envie sua branch para o seu repositório no Github
