@@ -1,6 +1,6 @@
 <b><H1>Nest.js Clean Architecture Main</H1></b> 
 
-Este é um repositório de exemplo de uma aplicação em Nest.js que segue o padrão de arquitetura Clean Architecture. O objetivo deste projeto é fornecer uma base sólida e escalável para novos projetos, utilizando as melhores práticas e ferramentas do desenvolvimento de software.
+Este é um repositório de exemplo de uma aplicação em Nest.js que segue o padrão de arquitetura Clean Architecture. O objetivo deste projeto é fornecer uma base sólida e escalável para novos projetos, utilizando as melhores práticas e ferramentas do desenvolvimento de software..
 
 <h2>O que é Clean Architecture? </h2> </br>
 
